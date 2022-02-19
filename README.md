@@ -9,7 +9,7 @@ pip install -r requirements.txt
 
 Usage:
 ```python
-python minecraft-skin-stealer.py {username}
+python minecraft-skin-stealer.py {minecraft-username}
 ```
 
 Example:
